@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5403861412951607254
+  m_GuidHigh: 12499826292163227271
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5511253783418517087
+      m_GuidHigh: 11835265234120426381
+    m_SerializedTextureGuid:
+      m_GuidLow: 12971662992473080536
+      m_GuidHigh: 668777836111147386
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: Cheesious_logo
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5109082917595786682
+      m_GuidHigh: 979189003969645500
+    m_SerializedTextureGuid:
+      m_GuidLow: 3725851435808252681
+      m_GuidHigh: 1820765917345023147
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: Kfc_logo
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5623287858622671295
+      m_GuidHigh: 9084134211783066044
+    m_SerializedTextureGuid:
+      m_GuidLow: 15453025131369184700
+      m_GuidHigh: 3659019764145418233
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: Ranchers_logo
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5272808962823475909
+      m_GuidHigh: 939169118927868557
+    m_SerializedTextureGuid:
+      m_GuidLow: 3779884896496026582
+      m_GuidHigh: 87824604648284489
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: Hardees_logo
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5640150708749545082
+      m_GuidHigh: 17884337713998299312
+    m_SerializedTextureGuid:
+      m_GuidLow: 11512586564845651717
+      m_GuidHigh: 4585650835900536921
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: PapaJohns_logo
+    m_Texture: {fileID: 0}
